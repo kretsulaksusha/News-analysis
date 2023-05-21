@@ -45,4 +45,3 @@ We have analyzed <span style="color: DarkTurquoise">5 different countries</span>
 <br>
 
 <p style="font-size: 18px">See the whole report in <span style="color: DarkTurquoise">news_analysis.ipynb</span>.</p>
-# News-analysis
